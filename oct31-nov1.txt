@@ -1,0 +1,6 @@
+Sir,I solved some problems in chapter15, i couldn't 
+workout the last exercises because it needed to instal
+swampy.So i try to instal swampy on my system.When i 
+instal swampy, i will workout the remaining exercises.
+
+Link: https://github.com/saruns/updates/tree/master/oct31-nov1
